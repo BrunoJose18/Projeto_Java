@@ -1,0 +1,16 @@
+# Credenciais locais
+config.properties
+.env
+
+# Arquivos do IntelliJ
+.idea/
+*.iml
+
+# Arquivos compilados
+out/
+target/
+build/
+*.class
+
+# Logs
+*.log
