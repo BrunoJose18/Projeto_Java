@@ -1,4 +1,4 @@
-# Sistema de Serviços — ProjetoFranci
+# Sistema de Serviços — Projeto com Java e MySQL
 
 Aplicação acadêmica desenvolvida em **Java e MySQL** para cadastrar clientes e profissionais, anunciar serviços e gerenciar agendamentos. A interação acontece pelo terminal, por meio de menus, sem interface gráfica e sem frameworks.
 
